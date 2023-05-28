@@ -6,5 +6,5 @@ Requirements:
 - 640x480 screen
 - USB sound card
 
-![Screenshot](analyzer1.jpg)
-![Screenshot](analyzer2.jpg)
+![Screenshot 1](analyzer1.jpg)
+![Screenshot 2](analyzer2.jpg)
